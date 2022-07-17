@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function Education() {
+export default function Projects() {
   return (
     <div class="card">
         <h2>Selected Repositories</h2>

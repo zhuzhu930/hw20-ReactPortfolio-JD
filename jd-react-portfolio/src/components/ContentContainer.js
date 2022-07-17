@@ -3,7 +3,8 @@ import Navigation from './Navigation';
 import Background from './pages/Background';
 import Goals from './pages/Goals';
 import Education from './pages/Education';
-import Portfolio from './pages/Portfolio';
+import Projects from './pages/Projects';
+import Contact from './pages/Contact';
 
 export default function ContentContainer() {
   const [currentPage, setCurrentPage] = useState('Background');
@@ -19,7 +20,10 @@ export default function ContentContainer() {
     if (currentPage === 'Education') {
       return <Education />;
     }
-    return <Portfolio />;
+    if (currentPage === 'Contact') {
+      return <Contact />;
+    }
+    return <Projects />;
   };
 
   const handlePageChange = (page) => setCurrentPage(page);

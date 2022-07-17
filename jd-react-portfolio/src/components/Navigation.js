@@ -37,12 +37,22 @@ function Navigation({ currentPage, handlePageChange }) {
       </li>
       <li className="nav-item">
         <a
-          href="#portfolio"
+          href="#projects"
 
-          onClick={() => handlePageChange('Portfolio')}
-          className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
+          onClick={() => handlePageChange('Projects')}
+          className={currentPage === 'Projects' ? 'nav-link active' : 'nav-link'}
         >
-          Portfolio
+          Projects
+        </a>
+      </li>
+      <li className="nav-item">
+        <a
+          href="#contact"
+
+          onClick={() => handlePageChange('Contact')}
+          className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
+        >
+          Contact
         </a>
       </li>
     </ul>
