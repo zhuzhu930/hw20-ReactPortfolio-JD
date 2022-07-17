@@ -17,8 +17,8 @@ export default function Background() {
           expanding my skills.
         </p>
         <p>
-          To learn more,
-          <a target="_blank" href="resumé.html">please view my resumé.</a>
+          To learn more, 
+          <a target="_blank" href="https://drive.google.com/file/d/1gyKDQJNxVROKWXVkvC0l_c2Hi1bW5ClC/view?usp=sharing">please view my resumé.</a>
         </p>
       </div>
   );

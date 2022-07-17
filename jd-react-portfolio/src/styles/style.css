@@ -99,6 +99,7 @@ header .selfie:hover {
   background: #fff;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
+  box-shadow: 12px 12px 2px 2px rgb(102, 133, 226);
 }
 .card:hover {
   border-color: wheat;
@@ -146,6 +147,10 @@ footer {
   min-height: 30px;
   padding: 100px;
   margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 footer .copyright {
