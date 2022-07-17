@@ -1,12 +1,14 @@
 import React from 'react';
+import '../styles/style.css';
+import selfie from '../images/selfie.jpg'
 
 export default function Header() {
     return (
         <div>
             <header>
                 <img
-                    src="./assets/images/selfie.jpg"
-                    alt="ramdom picture of people"
+                    src={selfie}
+                    alt="selfie"
                     class="selfie"
                 />
                 <h1>Hi, I'm Jessie Doherty. I live in Memphis, TN.</h1>
