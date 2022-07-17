@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.9d4cf576.css",
+    "main.js": "/my-app/static/js/main.a681604b.js",
+    "static/media/Memphis_city_birdview.jpeg": "/my-app/static/media/Memphis_city_birdview.de54afda8341ad82bbaf.jpeg",
+    "static/media/selfie.jpg": "/my-app/static/media/selfie.746a1acd286b55d48ba5.jpg",
+    "static/media/github-svgrepo-com.svg": "/my-app/static/media/github-svgrepo-com.7894bcfab1ab247b6ad7.svg",
+    "static/media/resumeicon.svg": "/my-app/static/media/resumeicon.6e44e4deb487d9644dba.svg",
+    "static/media/linkedin-svgrepo-com.svg": "/my-app/static/media/linkedin-svgrepo-com.5060e5e65d1b5cad6a35.svg",
+    "index.html": "/my-app/index.html",
+    "main.9d4cf576.css.map": "/my-app/static/css/main.9d4cf576.css.map",
+    "main.a681604b.js.map": "/my-app/static/js/main.a681604b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d4cf576.css",
+    "static/js/main.a681604b.js"
+  ]
+}
