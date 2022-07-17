@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Education() {
   return (
-    <div class="card">
+    <div className="card">
         <h2>Education</h2>
         <p>
           I'm a professional English-Chinese conference interpreter, now trained
@@ -13,7 +13,7 @@ export default function Education() {
           Specifically, I'm willing to learn everything about building and
           maintaining an outstanding MOOC platform.
         </p>
-        <ul class="educationlist">
+        <ul className="educationlist">
           <li>
             From Feb 2022 to Aug 2022: Georgia Tech Coding Boot Camp -
             Professional Certificate

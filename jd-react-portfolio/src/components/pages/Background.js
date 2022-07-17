@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Background() {
   return (
-    <div class="card">
+    <div className="card">
         <h2>Background</h2>
         <p>
           I’m an aspiring novice web designer who loves everything about the

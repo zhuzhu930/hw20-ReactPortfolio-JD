@@ -11,6 +11,11 @@ body {
   background: #f7f5f0;
 }
 /* Link Styles */
+/* #root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
 
 a {
   text-decoration: none;
@@ -78,6 +83,14 @@ header .selfie:hover {
   background-color: #222;
   color: whitesmoke;
 }
+
+.contentContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .card {
   margin: 30px;
   padding: 20px 40px 40px;

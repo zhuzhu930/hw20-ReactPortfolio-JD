@@ -2,13 +2,13 @@ import React from 'react';
 
 export default function Goals() {
   return (
-    <div class="card">
+    <div className="card">
         <h2>Goals</h2>
         <p>
           I want to master the process of building websites and increase my
           knowledge, skills and abilities in:
         </p>
-        <ul class="skills">
+        <ul className="skills">
           <li>HTML</li>
           <li>CSS</li>
           <li>JavaScript</li>

@@ -9,10 +9,10 @@ export default function Header() {
                 <img
                     src={selfie}
                     alt="selfie"
-                    class="selfie"
+                    className="selfie"
                 />
                 <h1>Hi, I'm Jessie Doherty. I live in Memphis, TN.</h1>
-                <button class="headerButton" id="headerBtn">
+                <button className="headerButton" id="headerBtn">
                     <a href="mailto:zhuzhu93028@gmail.com"
                     >Please feel free to contact me!</a>
                 </button>

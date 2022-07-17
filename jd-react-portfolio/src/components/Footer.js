@@ -10,25 +10,25 @@ export default function Footer() {
                     <a
                         target="_blank"
                         href="https://drive.google.com/file/d/1gyKDQJNxVROKWXVkvC0l_c2Hi1bW5ClC/view?usp=sharing"
-                        class="social resumeIcon"
+                        className="social resumeIcon"
                         >Resumé</a>
                     </li>
                     <li>
                     <a
                         target="_blank"
                         href="https://www.linkedin.com/in/jessie-doherty-9a5102239/"
-                        class="social linkedin"
+                        className="social linkedin"
                         >LinkedIn</a>
                     </li>
                     <li>
                     <a
                         target="_blank"
                         href="https://github.com/zhuzhu930"
-                        class="social github"
+                        className="social github"
                         >Github</a>
                     </li>
                 </ul>
-                <p class="copyright">&copy; Copyright 2022, Jessie Doherty Coding</p>
+                <p className="copyright">&copy; Copyright 2022, Jessie Doherty Coding</p>
             </footer>
         </div>    
     )

@@ -2,13 +2,13 @@ import React from 'react';
 
 export default function Projects() {
   return (
-    <div class="card">
+    <div className="card">
         <h2>Selected Repositories</h2>
         <p>
           Please feel free to take a look at some of the sites I've designed or
           participated in designing:
         </p>
-        <ul class="repolist">
+        <ul className="repolist">
           <li>
             <p>SoundRiver Music App</p>
             <a

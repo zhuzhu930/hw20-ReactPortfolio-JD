@@ -29,7 +29,7 @@ export default function ContentContainer() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-    <div>
+    <div className='contentContainer'>
       {/* // call 2 functions based on the props passed in */}
       <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
