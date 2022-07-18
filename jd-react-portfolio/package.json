@@ -2,7 +2,7 @@
   "name": "jd-react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zhuzhu930.github.io/my-react-portfolio",
+  "homepage": "https://zhuzhu930.github.io/hw20-ReactPortfolio-JD",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
