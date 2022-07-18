@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-react-portfolio/static/css/main.72c508d5.css",
-    "main.js": "/my-react-portfolio/static/js/main.bc2ef699.js",
+    "main.js": "/my-react-portfolio/static/js/main.0ca4a9bd.js",
     "static/media/triviaOfImpressionism.png": "/my-react-portfolio/static/media/triviaOfImpressionism.df9223782c424cb28c9c.png",
     "static/media/GadgetGetter.png": "/my-react-portfolio/static/media/GadgetGetter.10dc05eb149bfc014a05.png",
     "static/media/SoundRiver.png": "/my-react-portfolio/static/media/SoundRiver.1e580e31a25955dab6a8.png",
@@ -13,10 +13,10 @@
     "static/media/linkedin-svgrepo-com.svg": "/my-react-portfolio/static/media/linkedin-svgrepo-com.5060e5e65d1b5cad6a35.svg",
     "index.html": "/my-react-portfolio/index.html",
     "main.72c508d5.css.map": "/my-react-portfolio/static/css/main.72c508d5.css.map",
-    "main.bc2ef699.js.map": "/my-react-portfolio/static/js/main.bc2ef699.js.map"
+    "main.0ca4a9bd.js.map": "/my-react-portfolio/static/js/main.0ca4a9bd.js.map"
   },
   "entrypoints": [
     "static/css/main.72c508d5.css",
-    "static/js/main.bc2ef699.js"
+    "static/js/main.0ca4a9bd.js"
   ]
 }
