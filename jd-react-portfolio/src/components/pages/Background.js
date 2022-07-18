@@ -21,8 +21,7 @@ export default function Background() {
           expanding my skills.
         </p>
         <p>
-          To learn more, 
-          <a target={target} href={href}>please view my resumé.</a>
+          To learn more, please view my <a target={target} href={href}>resumé</a>.
         </p>
       </div>
   );
