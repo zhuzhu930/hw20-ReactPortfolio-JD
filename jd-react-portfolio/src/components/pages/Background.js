@@ -1,6 +1,10 @@
 import React from 'react';
 
 export default function Background() {
+  // Define some variables to be used later in JSX: 
+  const target = "_blank";
+  const href = "https://drive.google.com/file/d/1gyKDQJNxVROKWXVkvC0l_c2Hi1bW5ClC/view?usp=sharing"; 
+
   return (
     <div className="card">
         <h2>Background</h2>
@@ -18,7 +22,7 @@ export default function Background() {
         </p>
         <p>
           To learn more, 
-          <a target="_blank" href="https://drive.google.com/file/d/1gyKDQJNxVROKWXVkvC0l_c2Hi1bW5ClC/view?usp=sharing">please view my resumé.</a>
+          <a target={target} href={href}>please view my resumé.</a>
         </p>
       </div>
   );
