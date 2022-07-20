@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hw20-ReactPortfolio-JD/static/css/main.1ec737f4.css",
-    "main.js": "/hw20-ReactPortfolio-JD/static/js/main.82dd1d12.js",
+    "main.js": "/hw20-ReactPortfolio-JD/static/js/main.94333a53.js",
     "static/media/triviaOfImpressionism.png": "/hw20-ReactPortfolio-JD/static/media/triviaOfImpressionism.df9223782c424cb28c9c.png",
     "static/media/GadgetGetter.png": "/hw20-ReactPortfolio-JD/static/media/GadgetGetter.10dc05eb149bfc014a05.png",
     "static/media/SoundRiver.png": "/hw20-ReactPortfolio-JD/static/media/SoundRiver.1e580e31a25955dab6a8.png",
@@ -13,10 +13,10 @@
     "static/media/linkedin-svgrepo-com.svg": "/hw20-ReactPortfolio-JD/static/media/linkedin-svgrepo-com.5060e5e65d1b5cad6a35.svg",
     "index.html": "/hw20-ReactPortfolio-JD/index.html",
     "main.1ec737f4.css.map": "/hw20-ReactPortfolio-JD/static/css/main.1ec737f4.css.map",
-    "main.82dd1d12.js.map": "/hw20-ReactPortfolio-JD/static/js/main.82dd1d12.js.map"
+    "main.94333a53.js.map": "/hw20-ReactPortfolio-JD/static/js/main.94333a53.js.map"
   },
   "entrypoints": [
     "static/css/main.1ec737f4.css",
-    "static/js/main.82dd1d12.js"
+    "static/js/main.94333a53.js"
   ]
 }
